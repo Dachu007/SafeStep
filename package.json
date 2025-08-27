@@ -3,7 +3,7 @@
   "private": false,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://dachu007.github.io/SafeStep/",
+  "homepage": "  https://dachu007.github.io/safestep",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
