@@ -18,7 +18,7 @@ export default function SoS() {
         const handlePoliceBtn = () =>
         {
         swal({
-                title: 'Call Police: 108?',
+                title: 'Call Police: 100?',
                 text: 'Are you sure you want to make this call?',
                 icon: 'warning',
                 buttons: ['Cancel', 'Call'],
