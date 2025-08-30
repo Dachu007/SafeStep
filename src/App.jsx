@@ -17,7 +17,7 @@ function App() {
 
   return (
     
-   <Router basename="/SafeStepReactProject">
+   <Router basename="/SafeStep">
    
     <Routes>
       <Route path='/'element={<Lanuch />}></Route>
